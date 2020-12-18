@@ -62,4 +62,19 @@ Percentage of the requests served within a certain time (ms)
   98%    135
   99%    144
  100%    154 (longest request)
+ 
+
+ GO GIN-GONIC!!!
+
+ Percentage of the requests served within a certain time (ms)
+  50%    103
+  66%    104
+  75%    104
+  80%    105
+  90%    105
+  95%    106
+  98%    109
+  99%    111
+ 100%    113 (longest request)
+
  */
