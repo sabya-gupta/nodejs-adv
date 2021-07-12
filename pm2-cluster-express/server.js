@@ -10,8 +10,7 @@ const testDoTimedPong=()=>{
 }
 
 app.get('/ping', (req, res)=>{
-    testDoTimedPong()
-    res.send('pong!')
+    res.send('pong')
 })
 
 app.get('/no-wait', (req, res)=>{
